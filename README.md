@@ -8,6 +8,7 @@
 
 - Скачайте код
 - Установите зависимости командой `pip install -r requirements.txt`
+- Убедитесь что все миграции были установлены командой `python manage.py makemigrations` и `python manage.py migrate`
 - Запустите сервер командой `python3 manage.py runserver`
 
 После этого переходите по ссылке [127.0.0.1:8000](http://127.0.0.1:8000), вы увидите главную страницу.
