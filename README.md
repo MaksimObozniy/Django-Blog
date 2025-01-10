@@ -8,6 +8,7 @@
 
 - Скачайте код
 - Установите зависимости командой `pip install -r requirements.txt`
+- Разместите файл базы данных с постами в проекте.
 - Убедитесь что все миграции были установлены командой `python manage.py makemigrations` и `python manage.py migrate`
 - Запустите сервер командой `python3 manage.py runserver`
 
